@@ -3,9 +3,27 @@ body{
 }
 
 .logo_abk{
-    height: 50vh;
+    height: 40vh;
     background-image: url(./assets/ABK-Logo.png);
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
+    
+}
+
+.kushal{
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Jost', sans-serif;
+    font-size: 2.5rem;
+}
+
+.solicitor{
+    font-family: 'Climate Crisis', cursive;
+    font-family: 'Jost', sans-serif;
+    font-size: 1.5rem;
+
+}
+
+.i{
+    margin-left: 20px;
 }

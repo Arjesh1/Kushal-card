@@ -1,0 +1,11 @@
+body{
+    
+}
+
+.logo_abk{
+    height: 50vh;
+    background-image: url(./assets/ABK-Logo.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
